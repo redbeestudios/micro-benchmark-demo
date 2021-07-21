@@ -1,4 +1,4 @@
-# compareMethodsWithBenchmark
+# micro-benchmark-demo
 
 ## Preferred Usage: Command Line
 ### Step 1. Setting up the benchmarking project. The following command will generate the new JMH-driven project in test folder:
